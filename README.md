@@ -1,4 +1,4 @@
-# oi, tudo bem? meu nome é brendo bittencourt e sou estudante de programação
+# oi, tudo bem?
 
 - 💻 análise e desenvolvimento de sistemas 1/5
 - 📊 administração de empresas 1/8
