@@ -1,6 +1,9 @@
-# oi, tudo bem?
+# oi, tudo bem? meu nome é brendo bittencourt e sou estudante de programação
 
-## minhas habilidades
+- 💻 análise e desenvolvimento de sistemas 1/5
+- 📊 administração de empresas 1/8
+
+## o que estou estudando atualmente
 
 **front-end**
 
