@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  - 💻 análise e desenvolvimento de sistemas 1/5<br>
-  - 📊 administração de empresas 1/8
+  - 💻 system analysis and development 1/5<br>
+  - 🎧 riddim and tearout producer
 </p>
 
 <h2 align=center> o que estou estudando atualmente</h2>
@@ -83,3 +83,6 @@
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
 
+<p align="center">
+  <img width="400" src="https://media1.tenor.com/m/GoP1vft7w_oAAAAC/crow-bow.gif">
+</p>
