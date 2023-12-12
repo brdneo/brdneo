@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
-  - 💻 system analysis and development 1/5<br>
-  - 🎧 riddim and tearout producer
+  💻 system analysis and development 1/5<br>
+  🎧 riddim and tearout producer<br>
+  💡 IoT and embedded systems enthusiast
 </p>
 
-<h2 align=center> o que estou estudando atualmente</h2>
+<h2 align=center>what i'm learning</h2>
 
 <p align="center"><strong>front-end</strong></p>
 
