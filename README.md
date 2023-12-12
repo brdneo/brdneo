@@ -1,13 +1,19 @@
-# oi, tudo bem?
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=25&duration=3000&pause=2000&color=006437&center=true&vCenter=true&random=false&width=435&lines=hi%2C+i'm+brendo+;i'm+a+system+analysis+and+development+student" alt="Typing SVG" />
+  </a>
+</p>
 
-- 💻 análise e desenvolvimento de sistemas 1/5
-- 📊 administração de empresas 1/8
+<p align="center">
+  - 💻 análise e desenvolvimento de sistemas 1/5<br>
+  - 📊 administração de empresas 1/8
+</p>
 
-## o que estou estudando atualmente
+<h2 align=center> o que estou estudando atualmente</h2>
 
-**front-end**
+<p align="center"><strong>front-end</strong></p>
 
-<p>
+<p align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" height="30"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" height="30"/>
@@ -21,9 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" height="30"/>
 </p>
 
-**back-end**
+<p align="center"><strong>back-end</strong></p>
 
-<p>
+<p align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
@@ -33,9 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/>
 </p>
 
-**ux & design**
+<p align="center"><strong>ux & design</strong></p>
 
-<p>
+<p align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30" height="30"/>
@@ -46,9 +52,9 @@
 </p>
 
 
-**business**
+<p align="center"><strong>business</strong></p>
 
-<p>
+<p align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-plain.svg" width="30" height="30"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.cdnlogo.com/logos/s/76/scrum.svg" width="30" height="30"/>
@@ -60,19 +66,20 @@
 
 <br/>
 
-<div>
-<a href="https://github.com/brdneo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brdneo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brdneo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+  <a href="https://github.com/brdneo">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brdneo&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brdneo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
 
-## to por ai
+<h2 align=center>stay in touch</h2>
 
-<div>
-<a href="https://www.youtube.com/@brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/@brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</p>
 
