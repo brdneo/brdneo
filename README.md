@@ -10,6 +10,8 @@
   💡 IoT and embedded systems enthusiast
 </p>
 
+<br>
+
 <h2 align=center>what i'm learning</h2>
 
 <p align="center"><strong>front-end</strong></p>
@@ -77,12 +79,20 @@
 <h2 align=center>stay in touch</h2>
 
 <p align="center">
-  <a href="https://www.x.com/brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.x.com/brdneo" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="30" height="30" target="_blank"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/brdneo" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="30" height="30" target="_blank"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@brdneo" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="30" height="30" target="_blank"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/brdneo"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="30" height="30" target="_blank"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:brendobittencourt0@gmail.com" target="_blank"><img loading="lazy" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg" width="30" height="30" target="_blank"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/zm391kg8wp3eo2x8ak09xkwrd" target="_blank"><img loading="lazy" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Spotify.svg" width="30" height="30" target="_blank"></a>
 </p>
+
+<br><br>
 
 <p align="center">
   <img width="400" src="https://media1.tenor.com/m/GoP1vft7w_oAAAAC/crow-bow.gif">
