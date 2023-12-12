@@ -1,6 +1,7 @@
+<body style="font-family: 'Indie Flower', cursive; font-size: 16px;">
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=25&duration=3000&pause=2000&color=006437&center=true&vCenter=true&random=false&width=435&lines=hi%2C+i'm+brendo+;i'm+a+system+analysis+and+development+student" alt="Typing SVG" />
+  <a href="https://github.com/brdneo">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=15&duration=3000&pause=2000&color=006437&center=true&random=false&width=435&lines=hi%2C+i'm+brendo+;i'm+a+system+analysis+and+development+student;i+make+music+and+i+have+6+cats" alt="Typing SVG" />
   </a>
 </p>
 
@@ -87,3 +88,4 @@
 <p align="center">
   <img width="400" src="https://media1.tenor.com/m/GoP1vft7w_oAAAAC/crow-bow.gif">
 </p>
+</body>
