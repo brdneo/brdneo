@@ -10,8 +10,6 @@
   💡 IoT and embedded systems enthusiast
 </p>
 
-<br>
-
 <h2 align=center>what i'm learning</h2>
 
 <p align="center"><strong>front-end</strong></p>
