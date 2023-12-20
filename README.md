@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/brdneo">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&size=25&duration=2000&pause=1000&color=000000&center=true&random=false&width=500&lines=hi%2C+i'm+brendo+;i'm+a+front-end+dev+and+designer;i+make+music+and+i+have+6+cats;i+like+crows%2C+robots+and+football" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&size=25&duration=2000&pause=1000&color=ffafcc&center=true&random=false&width=500&lines=hi%2C+i'm+brendo+;i'm+a+front-end+dev+and+designer;i+make+music+and+i+have+6+cats;i+like+crows%2C+robots+and+football" alt="Typing SVG" />
   </a>
 </p>
 
