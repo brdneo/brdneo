@@ -85,7 +85,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/brdneo"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="30" height="30" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:brendobittencourt0@gmail.com" target="_blank"><img loading="lazy" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg" width="30" height="30" target="_blank"></a>
+  <a href="mailto:brdneo@proton.me" target="_blank"><img loading="lazy" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg" width="30" height="30" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/zm391kg8wp3eo2x8ak09xkwrd" target="_blank"><img loading="lazy" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Spotify.svg" width="30" height="30" target="_blank"></a>
 </p>
