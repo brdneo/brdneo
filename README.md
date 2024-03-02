@@ -46,15 +46,3 @@
   <img src="https://img.shields.io/badge/Intel%20Core_i7_8th-696969?style=for-the-badge&logo=intel&logoColor=0071C5"/>
   <img src="https://img.shields.io/badge/VSCode-696969?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/>
 </div>
-
-<h3 align=center>stay in touch</h3>
-
-<p align="center">
-  <a href="https://wa.me/5571996070108" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-696969?style=for-the-badge&logo=WhatsApp&logoColor=25D366" target="_blank"></a>
-  <a href="https://www.x.com/brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-696969?style=for-the-badge&logo=twitter&logoColor=1DA1F2" target="_blank"></a>
-  <a href="https://linkedin.com/in/brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-696969?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank"></a>
-  <a href="https://youtube.com/@brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-696969?style=for-the-badge&logo=youtube&logoColor=FF0000" target="_blank"></a>
-  <a href="https://instagram.com/brdneo"><img loading="lazy" src="https://img.shields.io/badge/Instagram-696969?style=for-the-badge&logo=instagram&logoColor=E4405F" target="_blank"></a>
-  <a href="mailto:brdneo@proton.me" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ProtonMail-696969?style=for-the-badge&logo=protonmail&logoColor=8B89CC" target="_blank"></a>
-  <a href="https://open.spotify.com/user/zm391kg8wp3eo2x8ak09xkwrd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-696969?&style=for-the-badge&logo=spotify&logoColor=1ED760" target="_blank"></a>
-</p>
