@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://media1.tenor.com/m/GoP1vft7w_oAAAAC/crow-bow.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 </p>
 
 <div align=center>
