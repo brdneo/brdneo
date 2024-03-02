@@ -3,11 +3,14 @@
 </p>
 
 <div align=center>
-  <p>
-  💻 system analysis and development 1/5<br>
-  🎧 riddim dubstep and tearout producer<br>
-  💡 IoT and embedded systems enthusiast
-  </p>
+  <h6>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15" height="15" />
+  System Analysis and Development 1/5 <br/> <br/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="15" height="15" />
+  Riddim Dubstep and Tearout producer <br/> <br/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="15" height="15" />
+  IoT and Embedded Systems enthusiast
+  </h6>
 </div>
 
 <div align=center>
