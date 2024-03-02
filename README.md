@@ -1,97 +1,61 @@
 <p align="center">
-  <a href="https://github.com/brdneo">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&size=25&duration=2000&pause=1000&color=ffafcc&center=true&random=false&width=500&lines=hi%2C+i'm+brendo+;i'm+a+front-end+dev+and+designer;i+make+music+and+i+have+6+cats;i+like+crows%2C+robots+and+football" alt="Typing SVG" />
-  </a>
+  <img width="200" src="https://media1.tenor.com/m/GoP1vft7w_oAAAAC/crow-bow.gif">
 </p>
 
+<div>
 <p align="center">
   💻 system analysis and development 1/5<br>
   🎧 riddim dubstep and tearout producer<br>
   💡 IoT and embedded systems enthusiast
 </p>
+</div>
 
-<h2 align=center>what i'm learning</h2>
-
-<p align="center"><strong>front-end</strong></p>
-
-<p align=center>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" height="30"/>
-</p>
-
-<p align="center"><strong>back-end</strong></p>
-
-<p align=center>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/>
-</p>
-
-<p align="center"><strong>ux & design</strong></p>
-
-<p align=center>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30" height="30"/>
-</p>
-
-
-<p align="center"><strong>business</strong></p>
-
-<p align=center>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-plain.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.cdnlogo.com/logos/s/76/scrum.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/373589/excel.svg" width="30" height="30"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="30" height="30"/>
-</p>
+<div align=center>
+  <h3>what i'm learning</h3>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/brdneo">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brdneo&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brdneo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+<div align=center>
+<h3>setup</h3>
 
-<h2 align=center>stay in touch</h2>
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intel%20Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
 
-<p align="center">
-  <a href="https://www.x.com/brdneo" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="30" height="30" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/brdneo" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="30" height="30" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/@brdneo" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="30" height="30" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/brdneo"><img loading="lazy" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="30" height="30" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:brdneo@proton.me" target="_blank"><img loading="lazy" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg" width="30" height="30" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/zm391kg8wp3eo2x8ak09xkwrd" target="_blank"><img loading="lazy" src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Spotify.svg" width="30" height="30" target="_blank"></a>
-</p>
+<br/>
 
-<br><br>
+<h3 align=center>stay in touch</h3>
 
 <p align="center">
-  <img width="400" src="https://media1.tenor.com/m/GoP1vft7w_oAAAAC/crow-bow.gif">
+  <a href="https://wa.me/5571996070108" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+  <a href="https://www.x.com/brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/@brdneo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/brdneo"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:brdneo@proton.me" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/zm391kg8wp3eo2x8ak09xkwrd" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </p>
