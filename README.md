@@ -40,9 +40,10 @@
 <div align=center>
 <h3>coding here</h3>
 
-  <img src="https://img.shields.io/badge/Pop!_OS-696969?style=for-the-badge&logo=Pop!_OS&logoColor=48B9C7"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-696969?style=for-the-badge&logo=arch-linux&logoColor=1793D1"/>
   <img src="https://img.shields.io/badge/samsung%20expert_x30-696969?style=for-the-badge&logo=Samsung&logoColor=1428A0"/>
-  <img src="https://img.shields.io/badge/NVIDIA_MX110-696969?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
   <img src="https://img.shields.io/badge/Intel%20Core_i7_8th-696969?style=for-the-badge&logo=intel&logoColor=0071C5"/>
+  <img src="https://img.shields.io/badge/NVIDIA_MX110-696969?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
   <img src="https://img.shields.io/badge/VSCode-696969?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/>
+  <img src="https://img.shields.io/badge/Firefox_Browser-696969?style=for-the-badge&logo=Firefox-Browser&logoColor=FF7139"/>
 </div>
