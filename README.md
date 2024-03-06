@@ -16,6 +16,7 @@
 <div align=center>
   <h3>i'm learning</h3>
   <img src="https://img.shields.io/badge/MySQL-696969?style=for-the-badge&logo=mysql&logoColor=005C84"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-696969?style=for-the-badge&logo=postgresql&logoColor=316192"/>
   <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/Docker-696969?style=for-the-badge&logo=docker&logoColor=2CA5E0"/>
   <img src="https://img.shields.io/badge/Django-696969?style=for-the-badge&logo=django&logoColor=092E20"/>
