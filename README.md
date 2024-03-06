@@ -39,6 +39,19 @@
 </div>
 
 <div align=center>
+  <h3>i'm not learning but i'm in love</h3>
+  <img src="https://img.shields.io/badge/JWT-696969?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/MongoDB-696969?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+  <img src="https://img.shields.io/badge/kubernetes-696969.svg?&style=for-the-badge&logo=kubernetes&logoColor=326ce5"/>
+  <img src="https://img.shields.io/badge/Markdown-696969?style=for-the-badge&logo=markdown&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/ThreeJs-696969?style=for-the-badge&logo=three.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CoffeeScript-696969?style=for-the-badge&logo=CoffeeScript&logoColor=2F2625"/>
+  <img src="https://img.shields.io/badge/%3C/%3E%20htmx-696969?style=for-the-badge&logo=mysl&logoColor=3D72D7"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-696969?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/>
+  <img src="https://img.shields.io/badge/Arduino-696969?style=for-the-badge&logo=Arduino&logoColor=00979D"/>
+</div>
+
+<div align=center>
 <h3>coding here</h3>
 
   <img src="https://img.shields.io/badge/Arch_Linux-696969?style=for-the-badge&logo=arch-linux&logoColor=1793D1"/>
