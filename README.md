@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/%3C/%3E%20htmx-696969?style=for-the-badge&logo=mysl&logoColor=3D72D7"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-696969?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/>
   <img src="https://img.shields.io/badge/Arduino-696969?style=for-the-badge&logo=Arduino&logoColor=00979D"/>
+  <img src="https://img.shields.io/badge/Mocha-696969?style=for-the-badge&logo=Mocha&logoColor=8D6748"/>
 </div>
 
 <div align=center>
