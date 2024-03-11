@@ -56,7 +56,7 @@
 <h3>coding here</h3>
 
   <img src="https://img.shields.io/badge/Arch_Linux-696969?style=for-the-badge&logo=arch-linux&logoColor=1793D1"/>
-  <img src="https://img.shields.io/badge/samsung%20expert_x30-696969?style=for-the-badge&logo=Samsung&logoColor=1428A0"/>
+  <img src="https://img.shields.io/badge/samsung%20expert_x50-696969?style=for-the-badge&logo=Samsung&logoColor=1428A0"/>
   <img src="https://img.shields.io/badge/Intel%20Core_i7_8th-696969?style=for-the-badge&logo=intel&logoColor=0071C5"/>
   <img src="https://img.shields.io/badge/NVIDIA_MX110-696969?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
   <img src="https://img.shields.io/badge/VSCode-696969?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/>
