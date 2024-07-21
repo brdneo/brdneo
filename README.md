@@ -5,7 +5,7 @@
 <div align=center>
   <h6>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15" height="15" />
-  System Analysis and Development 1/5 <br/> <br/>
+  Bachelor's Degree in Statistics 1/8 <br/> <br/>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="15" height="15" />
   Data Science and Analysis student <br/> <br/>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="15" height="15" />
